@@ -125,5 +125,4 @@ extension CharacterViewController : UITableViewDataSource {
         }
         return cell
     }
-}
 
