@@ -125,4 +125,4 @@ extension CharacterViewController : UITableViewDataSource {
         }
         return cell
     }
-println(Thu Jan 26 18:03:26 -05 2023) }
+println(Thu Jan 26 18:03:54 -05 2023) }
