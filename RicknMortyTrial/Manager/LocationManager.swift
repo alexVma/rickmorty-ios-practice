@@ -30,4 +30,4 @@ func downloadLocationJSON(){
             print("something is wrong")
         }
     }.resume()
-println(Tue Mar 14 17:34:58 -05 2023) }
+println(Wed Mar 22 15:14:57 -05 2023) }
